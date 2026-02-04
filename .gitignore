@@ -1,5 +1,6 @@
 # 파일
 .env
+.python-version
 
 # 폴더
 .venv/
